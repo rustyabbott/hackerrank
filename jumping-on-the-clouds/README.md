@@ -42,8 +42,9 @@ Print the minimum number of jumps needed to win the game.
 #### Explanation 0:
 
 Emma must avoid c[2] and c[5]. She can win the game with a minimum of 4 jumps:
-
-[img/jump2.png](img/jump2.png)
+<p align="center">
+![img/jump2.png](img/jump2.png)
+</p>
 
 #### Sample Input 1
 ```
@@ -57,5 +58,6 @@ Emma must avoid c[2] and c[5]. She can win the game with a minimum of 4 jumps:
 
 #### Explanation 1:
 The only thundercloud to avoid is c[4]. Emma can win the game in 3 jumps:
-
-[img/jump5.png](img/jump5.png)
+<p align="center">
+![img/jump5.png](img/jump5.png)
+</p>
